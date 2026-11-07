@@ -7,7 +7,7 @@ export const profile = {
   location: "Airport, Dhaka, Bangladesh",
   github: "https://github.com/SahedShovo",
   linkedin: "https://www.linkedin.com/in/sahed-ahmed-918130352/",
-  videoId: "",
+  videoId: "NSE187LflxU",
   about:
     "I'm a Computer Science and Engineering student at AIUB (2023–2026) with a strong base in software development, analytical thinking and problem solving. I build full-stack applications with clean APIs, solid databases and responsive interfaces, and I want to keep growing in a professional team on innovative projects.",
 };
